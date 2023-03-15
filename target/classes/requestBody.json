@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "nombreDeUsuario": "santos",
+      "correoElectronico": "sntos@reboot.mx",
+      "perfilUsuario": "admin"
+    },
+    {
+      "nombreDeUsuario": "oscar",
+      "correoElectronico": "oscar!@o.utok.com",
+      "perfilUsuario": "operador"
+    },
+    {
+      "nombreDeUsuario": "jorge",
+      "correoElectronico": "jorge@sistemas.mx",
+      "perfilUsuario": "sistemas"
+    },
+    {
+      "nombreDeUsuario": "francisco",
+      "correoElectronico": "fran@sistemas.mx",
+      "perfilUsuario": "admin"
+    }
+  ]
+}
